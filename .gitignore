@@ -1,0 +1,21 @@
+# File nén / bộ cài lớn (> 100MB, GitHub không cho phép)
+Source/*.rar
+Eff/*.exe
+
+# Log & trạng thái runtime
+Logs/
+.state/
+*.log
+
+# Sản phẩm build Java
+Teamobi2026/build/
+Teamobi2026/dist/
+Teamobi2026/*.jar
+Teamobi2026/nbproject/private/
+
+# Hệ điều hành / IDE
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
